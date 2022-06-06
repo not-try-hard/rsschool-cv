@@ -15,7 +15,6 @@
 * JavaScript(Basic)
 * Python(Basic)
 
-
 ## Code example
 ## Education
 * **University:** Moscow Aviation Institute, engineering major
